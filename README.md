@@ -32,8 +32,9 @@ python test.py
 
 ```
 
-If you want to train the deep leanring networks on the proposed articular surface ("data_a") and epiphysis ("data_e") datasets, please update the path in the train.py. i.e.,
+If you want to train the deep leanring networks on the proposed articular surface ("data_a") and epiphysis ("data_e") datasets, please update the path in the train.py:
 
+For the articular surface dataset:
 ''''
 train_dataset_path = './data_e/train'
 val_dataset_path = './data_e/val'
@@ -43,6 +44,8 @@ val_csv_path = './data_e/val.csv'
 test_csv_path = './data_e/test.csv'
 ''''
 
+
+For the epiphysis dataset:
 ''''
 train_dataset_path = './data_a/train'
 val_dataset_path = './data_a/val'
