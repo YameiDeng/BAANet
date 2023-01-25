@@ -1,4 +1,4 @@
-# DANet
+# BAANet
   This is our research code of "Bone Age Assessment from Articular Surface and Epiphysis in Hand Radiography using Deep Neural Networks"
   
   If you need any help for the code and data, do not hesitate to leave issues in this repository.
