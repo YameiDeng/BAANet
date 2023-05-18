@@ -7,7 +7,7 @@
  
 ```
 @article{BAA2023,
-journal={submitted to Biomedical Signal Processing and Control},
+journal={submitted},
 title={Bone Age Assessment from Articular Surface and Epiphysis in Hand Radiography using Deep Neural Networks}
 }
 
