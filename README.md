@@ -8,7 +8,7 @@
 ```
 @article{BAA2023,
 journal={submitted},
-title={Bone Age Assessment from Articular Surface and Epiphysis in Hand Radiography using Deep Neural Networks}
+title={Bone Age Assessment from Articular Surface and Epiphysis using Deep Neural Networks}
 }
 
 ```
