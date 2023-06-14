@@ -6,9 +6,14 @@
 ## Citation
  
 ```
-@article{BAA2023,
-journal={submitted},
-title={Bone Age Assessment from Articular Surface and Epiphysis using Deep Neural Networks}
+@article{deng2023bone,
+  title={Bone age assessment from articular surface and epiphysis using deep neural networks},
+  author={Deng, Yamei and Chen, Yonglu and He, Qian and Wang, Xu and Liao, Yong and Liu, Jue and Liu, Zhaoran and Huang, Jianwei and Song, Ting},
+  journal={Mathematical Biosciences and Engineering},
+  volume={20},
+  number={7},
+  pages={13133--13148},
+  year={2023}
 }
 
 ```
